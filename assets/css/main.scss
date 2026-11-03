@@ -36,3 +36,8 @@
     "layout/archive",
     "layout/sidebar"
 ;
+
+/* Hide the template's default avatar image (no profile photo provided) */
+.author__avatar {
+  display: none;
+}
